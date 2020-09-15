@@ -2,7 +2,7 @@
 # Repo Developer @125k
 WiFi captive portal for the NodeMCU (ESP8266 Module) with DNS spoofing. It asks the user for an email and a password for a fake sign in, in order to "get connected to the internet".
 
-The built-in LED will blink 5 times when some credentials are posted.
+The built-in LED will blink 3 times when some credentials are posted.
 
 <b>Warning!</b> Your saved credentials will disappear when you restart/power off the ESP8266.
 
@@ -17,7 +17,7 @@ The built-in LED will blink 5 times when some credentials are posted.
     <th>172.0.0.1/creds</th>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/125K/ESP8266_WiFi_Captive_Portal_2.0/master/src/1_index.png" title="Index"></td>
+    <td><https://github.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/blob/master/images/login.jpg?raw=true></td>
     <td><img src="https://raw.githubusercontent.com/BlueArduino20/ESP8266_WiFi_Captive_Portal_2.0/master/src/2_post.png" title="Post"></td>
     <td><img src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/clear_victims.jpg" title="Creds"></td>
   </tr>
