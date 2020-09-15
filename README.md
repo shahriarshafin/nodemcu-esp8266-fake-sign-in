@@ -19,7 +19,7 @@ The built-in LED will blink 5 times when some credentials are posted.
   <tr>
     <td><img src="https://raw.githubusercontent.com/125K/ESP8266_WiFi_Captive_Portal_2.0/master/src/1_index.png" title="Index"></td>
     <td><img src="https://raw.githubusercontent.com/BlueArduino20/ESP8266_WiFi_Captive_Portal_2.0/master/src/2_post.png" title="Post"></td>
-    <td><img src="https://raw.githubusercontent.com/BlueArduino20/ESP8266_WiFi_Captive_Portal_2.0/master/src/3_creds.png" title="Creds"></td>
+    <td><img src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/clear_victims.jpg" title="Creds"></td>
   </tr>
 </table>
 
