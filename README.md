@@ -1,9 +1,9 @@
 # NodeMcu-ESP8266_Fake_sign_in
-# Repo Developer @125k
+## Repo Developer @125k
   
    ## About this project
    ### WiFi captive portal for the NodeMCU (ESP8266 Module) with DNS spoofing.
-  - A login page will appear when someone connects to this "Free WiFi".
+  - A login page will appear when someone connects to this Free WiFi".
   - It asks the user for an email and a password for a fake sign in.
   - The built-in LED will blink 3 times after the login process is completed by someone.
 
