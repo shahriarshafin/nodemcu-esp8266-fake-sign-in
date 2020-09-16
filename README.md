@@ -1,10 +1,13 @@
 # NodeMcu-ESP8266_Fake_sign_in
 # Repo Developer @125k
-WiFi captive portal for the NodeMCU (ESP8266 Module) with DNS spoofing. It asks the user for an email and a password for a fake sign in, in order to "get connected to the internet".
+  
+   ## About this project
+   ### WiFi captive portal for the NodeMCU (ESP8266 Module) with DNS spoofing.
+  - A login page will appear when someone connects to this "Free WiFi".
+  - It asks the user for an email and a password for a fake sign in.
+  - The built-in LED will blink 3 times after the login process is completed by someone.
 
-The built-in LED will blink 3 times when some credentials are posted.
-
-<b>Warning!</b> Your saved credentials will disappear when you restart/power off the ESP8266.
+<b>Warning!</b> Saved credentials will disappear when you restart/power off the ESP8266.
 
 <b>Note:</b> If you want to see the stored credetials go to <a>"**http**://</a>yourcurrentwebsite.com<a>/creds</a>" or "**172.0.0.1**<a>/creds</a>"
 
@@ -22,8 +25,6 @@ The built-in LED will blink 3 times when some credentials are posted.
     <td><img src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/clear_victims.jpg" title="Creds"></td>
   </tr>
 </table>
-
-<a href="https://www.buymeacoffee.com/rSiZtB3" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 
 # Installation (ESP8266 Flasher - Easy way)
@@ -55,5 +56,15 @@ The built-in LED will blink 3 times when some credentials are posted.
 6. Upload the code into your board.
 7. You are done!
 
+## Credits
+This is an integrated project of Original Repo Developer [@shahriarshafin](http://github.com/shahriarshafin)
+
 ## Disclaimer
-This project is for testing and educational purposes. Use it only against your own networks and devices. I don't take any responsibility for what you do with this program.
+- This project is for testing and educational purposes. 
+- Use it only against your own networks and devices. 
+- Neither the ESP8266, nor its SDK was meant or built for such purposes.   
+- I don't take any responsibility for what you do with this program. 
+- Bugs can occur!
+
+## License 
+This software is licensed under the MIT License. See the [license file](LICENSE) for details. 
