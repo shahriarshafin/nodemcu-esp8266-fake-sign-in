@@ -70,12 +70,6 @@
 ## Credits
 This is an integrated project of Original Repo Developer [@shahriarshafin](http://github.com/shahriarshafin)
 
-## Disclaimer
-- This project is for testing and educational purposes. 
-- Use it only against your own networks and devices. 
-- Neither the ESP8266, nor its SDK was meant or built for such purposes.   
-- I don't take any responsibility for what you do with this program. 
-- Bugs can occur!
 
 ## Disclaimer
 - This project is for testing and educational purposes. 
