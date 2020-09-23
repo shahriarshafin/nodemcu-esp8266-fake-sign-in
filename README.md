@@ -1,6 +1,5 @@
-# NodeMcu-ESP8266_Fake_sign_in
-## Repo Developer @125k
-  
+# NodeMcu ESP8266 Fake sign in
+
    ## About this project
    ### WiFi captive portal for the NodeMCU (ESP8266 Module) with DNS spoofing.
   - A login page will appear when someone connects to this Free WiFi".
