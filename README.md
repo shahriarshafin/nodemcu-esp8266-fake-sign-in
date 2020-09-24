@@ -13,33 +13,27 @@
 # Screenshots
 
 <table>
-  <tr>
+ <tr>
     <th>172.0.0.1/index</th>
     <th>172.0.0.1/post</th> 
-    <th>172.0.0.1/creds</th>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/connect.jpg" title="Creds"></td>
-    <td><img src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/login.jpg" title="Post"></td>
-    <td><img src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/login_successful.jpg" title="Creds"></td>
-  </tr>
- 
-  <tr>
-    <th>172.0.0.1/index</th>
-    <th>172.0.0.1/post</th> 
-    <th>172.0.0.1/creds</th>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/victims.jpg" title="Creds"></td>
-    <td><img src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/clear_victims.jpg" title="Creds"></td>
+ </tr>
    
-  </tr>
+ <tr>
+    <td><img src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/connect.jpg" title="Creds"></td>
+    <td><img src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/login.jpg" title="Post"></td> 
+ </tr>
+ 
+ <tr>
+   <th>172.0.0.1/creds</th>
+   <th>172.0.0.1/index</th>
+ </tr>
+ 
+ <tr>
+   <td><img src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/login_successful.jpg" title="Creds"></td>
+   <td><img src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/victims.jpg" title="Creds"></td>
+ </tr>
 </table>
 
-
-| col 1      | col 2      |
-|------------|-------------|
-| <img src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/victims.jpg" title="Creds"> | <img src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/clear_victims.jpg" title="Creds"> |
 
 # Installation (ESP8266 Flasher - Easy way)
 
