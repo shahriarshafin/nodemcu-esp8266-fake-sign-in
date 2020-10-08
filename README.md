@@ -65,7 +65,7 @@
 7. You are done!
 
 ## Credits
-This is an integrated project of Original Repo Developer [@125](https://github.com/125K)
+This is an integrated project of Original Repo Developer [@125K](https://github.com/125K)
 
 
 ## Disclaimer
