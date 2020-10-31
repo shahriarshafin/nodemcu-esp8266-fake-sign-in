@@ -19,8 +19,8 @@
  </tr>
    
  <tr>
-    <td><img src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/connect.jpg" title="Creds"></td>
-    <td><img src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/login.jpg" title="Post"></td> 
+    <td><img width="300px" src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/connect.jpg" title="Creds"></td>
+    <td><img width="300px" src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/login.jpg" title="Post"></td> 
  </tr>
  
  <tr>
@@ -29,8 +29,8 @@
  </tr>
  
  <tr>
-   <td><img src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/login_successful.jpg" title="Creds"></td>
-   <td><img src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/victims.jpg" title="Creds"></td>
+   <td><img width="300px" src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/login_successful.jpg" title="Creds"></td>
+   <td><img width="300px" src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/victims.jpg" title="Creds"></td>
  </tr>
 </table>
 
