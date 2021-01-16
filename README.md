@@ -43,11 +43,11 @@
 
 3. Open the ESP8266 Flasher and select the Node MCU port
 
-<img width="80%" src="https://raw.githubusercontent.com/BlueArduino20/ESP8266_WiFi_Captive_Portal_2.0/master/src/1_port_selection.PNG">
+<img width="80%" src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/1_port_selection.png">
 
 4. Then, go to the config tab and select the .bin file you've just downloaded.
 
-<img width="80%" src="https://raw.githubusercontent.com/BlueArduino20/ESP8266_WiFi_Captive_Portal_2.0/master/src/2_file_selection.png">
+<img width="80%" src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/2_file_selection.png">
 
 5. Finally, go back to the first tab and press "Flash"
 
