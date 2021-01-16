@@ -14,23 +14,23 @@
 
 <table>
  <tr>
-    <th>172.0.0.1/index</th>
-    <th>172.0.0.1/post</th> 
+    <th>connect to Free Wifi</th>
+    <th>redirect ➜ 172.0.0.1/</th> 
  </tr>
    
  <tr>
-    <td><img width="300px" src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/connect.jpg" title="Creds"></td>
-    <td><img width="300px" src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/login.jpg" title="Post"></td> 
+    <td><img width="250px" src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/connect.jpg" title="Creds"></td>
+    <td><img width="250px" src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/login.jpg" title="Post"></td> 
  </tr>
  
  <tr>
-   <th>172.0.0.1/creds</th>
-   <th>172.0.0.1/index</th>
+   <th>172.0.0.1/post</th>
+   <th>172.0.0.1/pass</th>
  </tr>
  
  <tr>
-   <td><img width="300px" src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/login_successful.jpg" title="Creds"></td>
-   <td><img width="300px" src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/victims.jpg" title="Creds"></td>
+   <td><img width="250px" src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/login_successful.jpg" title="Creds"></td>
+   <td><img width="250px" src="https://raw.githubusercontent.com/ShahriarShafin/NodeMcu-ESP8266_Fake_sign_in/master/images/victims.jpg" title="Creds"></td>
  </tr>
 </table>
 
