@@ -4,11 +4,11 @@
    ### WiFi captive portal for the NodeMCU (ESP8266 Module) with DNS spoofing.
   - A login page will appear when someone connects to this "Free WiFi".
   - It asks the user for an email and a password for a fake sign in.
-  - The built-in LED will blink 3 times after the login process is completed by someone.
-
-<b>Warning!</b> Saved passwords will disappear when you restart/power off the ESP8266(Nodemcu)
-
-<b>Note:</b> If you want to see the stored credetials go to <a>"**http**://</a>yourcurrentwebsite.com<a>/creds</a>" or "**172.0.0.1**<a>/creds</a>"
+  - The built-in LED will blink 3 times after the login process is completed by someone.<b>
+```diff
+! Warning! Saved passwords will disappear when you restart/power off the ESP8266(Nodemcu) 
+```
+<b>Note: If you want to see the stored credetials go to <a>"**http**://</a>yourcurrentwebsite.com<a>/creds</a>" or "**172.0.0.1**<a>/creds</a>"
 
 # Screenshots
 
